@@ -10,6 +10,7 @@ gem "rails"
 
 gem 'bootstrap', '~> 5.1.0'
 gem 'autoprefixer-rails', '~> 9.1.0' 
+gem 'faraday-retry'
 
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
