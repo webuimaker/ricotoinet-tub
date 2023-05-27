@@ -14,6 +14,7 @@ twitter:
   card: summary #keep this to generate a twitter share card
 gems:
   - jekyll-scholar
+  - faraday-retry
 
 plugins:
   - jekyll-seo-tag
