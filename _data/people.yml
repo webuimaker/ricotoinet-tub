@@ -1,0 +1,84 @@
+- name: Stefan Schmid
+  role: head
+  photo: images/members/stefan.jpg
+  info: Professor
+  email: stefan.schmid [at] tu-berlin [dot] de
+  phone: "+49 30 314 75169"
+  scholar: https://scholar.google.com/citations?hl=en&user=o3Mh4FwAAAAJ
+  website: https://www.univie.ac.at/ct/stefan/
+  link: https://schmiste.github.io/
+
+- name: Birgit Hohmeier-Touré
+  role: admin
+  photo: images/members/noimage.png
+  info: Secretary
+  email: birgit [at] inet [dot] tu-berlin [dot] de
+  phone: +49 30 314 75170
+
+- name: Vamsi Addanki
+  role: researchteaching
+  photo: images/members/vamsi.jpeg
+  info: PhD Student
+  email: vamsi[at] inet [dot] tu-berlin [dot] de
+  github: https://github.com/vamsiDT
+  scholar: https://scholar.google.com/citations?user=aWDx0zUAAAAJ&hl=en
+  website: https://www.vamsiaddanki.net/
+  link: https://www.vamsiaddanki.net/
+
+- name: Arash Pourdamghani
+  role: researchteaching
+  photo: images/members/arash.png
+  info: PhD Student
+  email: pourdamghani[at] tu-berlin [dot] de
+  github: https://github.com/pourdamghani
+  scholar: https://scholar.google.com/citations?hl=en&user=jsHuvKEAAAAJ
+  website: https://pourdamghani.github.io/
+  link: https://pourdamghani.net/
+
+- name: Maciej Pacut
+  role: researchteaching
+  photo: images/members/maciej.jpeg
+  info: Postdoc
+  email: maciej[at] inet [dot] tu-berlin [dot] de
+  github: https://github.com/foo
+  scholar: https://scholar.google.pl/citations?user=KE9MLF8AAAAJ&hl=en
+  website: https://maciejpacut.github.io/
+  link: https://maciej.pacut.pl/
+
+- name: Volker Stocker
+  role: researchteaching
+  photo: images/members/Volker.png
+  info: Postdoc
+  email: vstocker[at] inet [dot] tu-berlin [dot] de
+  link: https://volkerstocker.net/
+
+- name: Darya Melnyk
+  role: researchteaching
+  photo: images/members/dariya.jpeg
+  info: Postdoc
+  email: melnyk[at] tu-berlin [dot] de
+  scholar: https://scholar.google.com/citations?user=i88PJrIAAAAJ&hl=en
+  link: https://darya-melnyk.github.io/
+
+- name: Taha Albakour
+  role: researchteaching
+  photo: images/members/noimage.png
+  info: PhD Student
+  email: taha.albakour[at] inet [dot] tu-berlin [dot] de
+
+- name: Anjuman Ara Bithi
+  role: studentassistants
+  photo: images/members/anju.png
+  email: a.bithi[at] tu-berlin [dot] de
+
+- name: Qingyun Ji 
+  role: studentassistants
+  photo: images/members/noimage.png
+  email: qingyun.ji[at]campus[dot]tu-berlin[dot]de
+
+- name: Robert Sama 
+  role: studentassistants
+  photo: images/members/noimage.png
+  email: robert.sama[at]univie[dot]ac[dot]at
+
+
